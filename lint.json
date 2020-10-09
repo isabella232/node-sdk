@@ -1,0 +1,69 @@
+[
+  {
+    "name": "Hyperwallet#getBankAccountStatusTransition",
+    "filePath": "src/Hyperwallet.js",
+    "lines": [
+      {
+        "lineNumber": 1174,
+        "line": "    /**"
+      },
+      {
+        "lineNumber": 1175,
+        "line": "     * Get bank account status transition"
+      },
+      {
+        "lineNumber": 1176,
+        "line": "     *"
+      },
+      {
+        "lineNumber": 1177,
+        "line": "     * @param {string} userToken - The user token"
+      },
+      {
+        "lineNumber": 1178,
+        "line": "     * @param {string} bankAccountToken - The bank account token"
+      },
+      {
+        "lineNumber": 1179,
+        "line": "     * @param {string} bankAccountToken - The bank account token"
+      },
+      {
+        "lineNumber": 1180,
+        "line": "     * @param {string} statusTransitionToken - The bank account status transition token"
+      },
+      {
+        "lineNumber": 1181,
+        "line": "     * @param {api-callback} callback - The callback for this call"
+      },
+      {
+        "lineNumber": 1182,
+        "line": "     *"
+      },
+      {
+        "lineNumber": 1183,
+        "line": "     * @throws Will throw an error if userToken or bankAccountToken is not provided"
+      },
+      {
+        "lineNumber": 1184,
+        "line": "     */"
+      },
+      {
+        "lineNumber": 1185,
+        "line": "    getBankAccountStatusTransition(userToken, bankAccountToken, statusTransitionToken, callback) {"
+      }
+    ],
+    "codeParams": [
+      "userToken",
+      "bankAccountToken",
+      "statusTransitionToken",
+      "callback"
+    ],
+    "docParams": [
+      "userToken",
+      "bankAccountToken",
+      "bankAccountToken",
+      "statusTransitionToken",
+      "callback"
+    ]
+  }
+]
